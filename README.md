@@ -1,8 +1,6 @@
 # 🎭 DevEmotion — Duygu Tanıma Modelleri (Bireysel Katkı)
 
 > ⚠️ **Bu, 5 kişilik bir ekip projesi olan DevEmotion'ın bir parçasıdır.** Bu repo yalnızca benim (Mert Ali Kızılkaya) bireysel katkım olan **ResNeXt-50** ve **VGG19** model deneylerini içerir. Ekibin tüm projesi için: **[github.com/Efeyamann/Devemotion](https://github.com/Efeyamann/Devemotion)**
->
-> **Ekip:** Efe Yaman Sir, Mert Ali Kızılkaya, Fırat Soykan, Ahmet Baran Vardar, Yiğit Ali Çolakoğlu — her üye farklı bir derin öğrenme mimarisini (CNN, ResNet, DenseNet, ResNeXt, VGG19 vb.) bağımsız olarak test edip karşılaştırmıştır.
 
 Derin öğrenme ile yüz ifadelerinden duygu sınıflandırması yapan ve tahmin edilen duyguya göre film önerisi sunan bir sistem. İki farklı transfer learning yaklaşımı (ResNeXt-50 ve VGG19) karşılaştırmalı olarak uygulanmıştır.
 
