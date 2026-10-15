@@ -1,0 +1,17 @@
+# Veri setleri (boyut nedeniyle depoya dahil edilmemiştir — bkz. README)
+archive.zip
+train/
+test/
+
+# Eğitilmiş model ağırlıkları (büyük .pth dosyaları)
+*.pth
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
